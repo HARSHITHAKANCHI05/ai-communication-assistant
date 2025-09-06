@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+requests
+openai
+email-validator
+python-multipart
